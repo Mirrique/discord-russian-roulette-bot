@@ -31,5 +31,5 @@ client.on("messageCreate", async (message) => {
   }
 });
 
-client.login(MTQwNzgwMzUwMjE4MDQzODExOA.GDlx2r.jKqne025vhSoe86EIK3BfDt4W68gmMVVUMqEuI)
+client.login(process.env.TOKEN)
 
